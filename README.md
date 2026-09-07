@@ -16,6 +16,6 @@ A lightweight, high-performance vector search engine implemented entirely from s
 ### 1. Installation & Environment Setup
 Clone the repository and install the required dependencies:
 ```bash
-git clone [https://github.com/gargitamra/Custom-Vector-Database-Engine-.git](https://github.com/gargitamra/Custom-Vector-Database-Engine-.git)
+git clone https://github.com/gargitamra/Custom-Vector-Database-Engine-.git
 cd Custom-Vector-Database-Engine-
 pip install numpy pandas sentence-transformers streamlit tqdm
